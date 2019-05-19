@@ -1,0 +1,20 @@
+[19:13:42] [main/INFO]: Setting user: Player510
+[19:13:43] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:13:44] [Client thread/ERROR]: Couldn't initialize twitch stream
+[19:14:05] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Universal Coins
+[19:14:06] [Sound Library Loader/INFO]: Sound engine started
+[19:14:14] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:14:14] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:14:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Universal Coins
+[19:14:15] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:14:16] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:14:17] [Sound Library Loader/INFO]: Sound engine started
+[19:15:15] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:15:15] [Server thread/INFO]: Generating keypair
+[19:15:15] [Server thread/INFO]: Preparing start region for level 0
+[19:15:16] [Server thread/INFO]: Preparing spawn area: 45%
+[19:15:17] [Server thread/INFO]: Preparing spawn area: 92%
+[19:15:18] [Server thread/INFO]: Preparing spawn area: 97%
+[19:15:19] [Server thread/INFO]: Changing view distance to 8, from 10
+[19:15:20] [Server thread/INFO]: Player510[local:E:99356d2e] logged in with entity id 385 at (-208.06000560858033, 72.0, 283.69497569128515)
+[19:15:20] [Server thread/INFO]: Player510 joined the game

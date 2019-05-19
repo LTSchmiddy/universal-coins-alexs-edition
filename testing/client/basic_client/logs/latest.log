@@ -1,0 +1,42 @@
+[20:02:50] [main/INFO]: Setting user: Player566
+[20:02:51] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:02:52] [Client thread/ERROR]: Couldn't initialize twitch stream
+[20:03:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Universal Coins
+[20:03:11] [Sound Library Loader/INFO]: Sound engine started
+[20:03:20] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[20:03:20] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[20:03:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Universal Coins
+[20:03:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:03:21] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:03:22] [Sound Library Loader/INFO]: Sound engine started
+[20:03:34] [Client thread/INFO]: Deleting level UC Exp 1
+[20:03:34] [Client thread/INFO]: Attempt 1...
+[20:03:41] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[20:03:41] [Server thread/INFO]: Generating keypair
+[20:03:41] [Server thread/INFO]: Converting map!
+[20:03:41] [Server thread/INFO]: Scanning folders...
+[20:03:41] [Server thread/INFO]: Total conversion count is 0
+[20:03:42] [Server thread/INFO]: Preparing start region for level 0
+[20:03:43] [Server thread/INFO]: Preparing spawn area: 7%
+[20:03:44] [Server thread/INFO]: Preparing spawn area: 14%
+[20:03:45] [Server thread/INFO]: Preparing spawn area: 20%
+[20:03:46] [Server thread/INFO]: Preparing spawn area: 27%
+[20:03:47] [Server thread/INFO]: Preparing spawn area: 33%
+[20:03:48] [Server thread/INFO]: Preparing spawn area: 38%
+[20:03:49] [Server thread/INFO]: Preparing spawn area: 44%
+[20:03:50] [Server thread/INFO]: Preparing spawn area: 50%
+[20:03:51] [Server thread/INFO]: Preparing spawn area: 56%
+[20:03:52] [Server thread/INFO]: Preparing spawn area: 62%
+[20:03:53] [Server thread/INFO]: Preparing spawn area: 68%
+[20:03:54] [Server thread/INFO]: Preparing spawn area: 75%
+[20:03:55] [Server thread/INFO]: Preparing spawn area: 83%
+[20:03:56] [Server thread/INFO]: Preparing spawn area: 91%
+[20:03:57] [Server thread/INFO]: Preparing spawn area: 98%
+[20:03:58] [Server thread/INFO]: Changing view distance to 8, from 10
+[20:03:58] [Server thread/INFO]: Player566[local:E:a7d973e9] logged in with entity id 281 at (197.5, 31.0, 247.5)
+[20:03:58] [Server thread/INFO]: Player566 joined the game
+[20:04:01] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2856ms behind, skipping 57 tick(s)
+[20:04:11] [Server thread/INFO]: Player566 has just earned the achievement [Taking Inventory]
+[20:04:11] [Client thread/INFO]: [CHAT] Player566 has just earned the achievement [Taking Inventory]
+[20:04:18] [Server thread/INFO]: [Player566: Set own game mode to Creative Mode]
+[20:04:18] [Client thread/INFO]: [CHAT] Your game mode has been updated

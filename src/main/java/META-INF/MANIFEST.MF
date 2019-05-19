@@ -1,0 +1,28 @@
+Manifest-Version: 1.0
+Class-Path: scala-actors-2.11.0.jar httpclient-4.3.3.jar scala-xml_2.1
+ 1-1.0.2.jar config-1.2.1.jar forgeessentials-1.7.10-1.4.6.1357-server
+ .jar commons-logging-1.1.3.jar gson-2.2.4.jar scala-parser-combinator
+ s_2.11-1.0.1.jar scala-xml_2.11-1.0.2.jar httpcore-4.3.2.jar twitch-e
+ xternal-platform-4.5-natives-windows-64.jar log4j-core-2.0-beta9.jar 
+ scala-library-2.11.1.jar commons-compress-1.8.1.jar jsr305-1.3.9.jar 
+ soundsystem-20120107.jar vecmath-1.3.1.jar lwjgl-2.9.1.jar launchwrap
+ per-1.12.jar jinput-2.0.5.jar twitch-platform-5.16-natives-windows-32
+ .jar librarylwjglopenal-20100824.jar jopt-simple-4.5.jar commons-lang
+ 3-3.3.2.jar lzma-0.0.1.jar scala-actors-migration_2.11-1.1.0.jar scal
+ a-swing_2.11-1.0.1.jar lwjgl-platform-2.9.1-natives-linux.jar scala-c
+ ontinuations-plugin_2.11.1-1.0.2.jar codecjorbis-20101023.jar icu4j-c
+ ore-mojang-51.2.jar jinput-platform-2.0.5-natives-windows.jar lwjgl-p
+ latform-2.9.1-natives-osx.jar jinput-platform-2.0.5-natives-osx.jar g
+ uava-17.0.jar scala-compiler-2.11.1.jar scala-reflect-2.11.1.jar juti
+ ls-1.0.0.jar twitch-platform-5.16-natives-osx.jar netty-all-4.0.10.Fi
+ nal.jar jinput-platform-2.0.5-natives-linux.jar realms-1.3.5.jar log4
+ j-api-2.0-beta9.jar asm-debug-all-5.0.3.jar scala-parser-combinators_
+ 2.11-1.0.1.jar twitch-platform-5.16-natives-windows-64.jar codecwav-2
+ 0101023.jar forgeSrc-1.7.10-10.13.4.1614-1.7.10.jar twitch-5.16.jar a
+ uthlib-1.5.16.jar lwjgl_util-2.9.1.jar lwjgl-platform-2.9.1-natives-w
+ indows.jar akka-actor_2.11-2.3.3.jar twitch-external-platform-4.5-nat
+ ives-windows-32.jar scala-continuations-library_2.11-1.0.2.jar trove4
+ j-3.0.3.jar commons-io-2.4.jar commons-codec-1.9.jar libraryjavasound
+ -20101123.jar
+Main-Class: 
+
